@@ -26,7 +26,7 @@ class Program
 
     static void Main()
     {
-        Console.Write("Введите количество чисел (N): ");
+        Console.Write("ИЗМЕНИЛА СТРОЧКУ !!!!!!!!!!): ");
         int n = int.Parse(Console.ReadLine());
 
         for (int i = 1; i <= n; i++)
